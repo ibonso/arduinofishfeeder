@@ -5,7 +5,7 @@ Aruino code uses interruptions to program a timer so the fish will be fed once e
 It incluedes a pushbutton to feed the fish manually.
 Everytime you restart the microcontroler it open the food 'gate' and waits 24 hours until next opening.
 
-It user: 
+It uses: 
 Servo library and MsTimer2 library.
 
 https://www.arduino.cc/en/Reference/Servo
